@@ -1,4 +1,4 @@
-# brainpiler
+# Brainpiler
 
 ## Description
 
