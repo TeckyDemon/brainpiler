@@ -42,7 +42,7 @@ Convert \*.bf file to other esoteric programming language source file:
 
 ## Authors
 
-* **Michał "DeBos" Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+* **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
 
 ## License
 
