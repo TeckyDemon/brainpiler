@@ -19,7 +19,10 @@ $ sudo apt install ruby -y
 
 ### MacOS
 
-`$ brew install ruby`
+```
+$ brew update && brew upgrade
+$ brew install ruby
+```
 
 ## Installation
 
