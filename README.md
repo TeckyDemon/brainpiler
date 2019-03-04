@@ -17,6 +17,10 @@ $ sudo apt update && sudo apt upgrade -y
 $ sudo apt install ruby -y
 ```
 
+### MacOS
+
+`$ brew install ruby`
+
 ## Installation
 
 Clone this repository:
