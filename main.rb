@@ -14,9 +14,7 @@ OptionParser.new do |parser|
 	parser.on('-o','--output OUTPUT','Set <output> file for program'){|x|options[:output]=x}
 	parser.on('-l','--lang LANG','Set <lang> for program') do |x|
 		options[:lang]=x
-		if not options[:input] or not options[:output] or not options[:lang] then
-			raise OptionParser::MissingArgument
-		end
+		raise OptionParser::MissingArgument if not options[:input] or not options[:output] or not options[:lang]
 		File.open(options[:output],'w+').write(File.open(options[:input],'r').read.chars.map{|x|INSTRUCTIONS[options[:lang]][INSTRUCTIONS['brainfuck'].index(x)||INSTRUCTIONS[options[:lang]].size]||''}.join.strip)
 	end
 end.parse!
