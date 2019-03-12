@@ -36,9 +36,9 @@ Help:
 
 `$ main.rb --help`
 
-Convert \*.bf file to other esoteric programming language source file:
+Convert **INPUT** file to other esoteric programming language source file:
 
-`$ main.rb --input <input> --output <output> --lang <lang>`
+`$ main.rb --input INPUT --output OUTPUT --lang LANG`
 
 ## Supported languages
 
