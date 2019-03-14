@@ -10,9 +10,18 @@ Install Ruby: https://rubyinstaller.org/
 
 ### Linux
 
+#### APT
+
 ```
 $ sudo apt update && sudo apt upgrade -y
 $ sudo apt install ruby -y
+```
+
+#### Pacman
+
+```
+$ sudo pacman -Syu --noconfirm
+$ sudo pacman -S ruby --noconfirm
 ```
 
 ### MacOS
