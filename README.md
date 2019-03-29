@@ -28,39 +28,39 @@ Install Ruby: https://rubyinstaller.org/
 #### APT
 
 ```
-$ sudo apt update && sudo apt upgrade -y
-$ sudo apt install ruby -y
+sudo apt update && sudo apt upgrade -y
+sudo apt install ruby -y
 ```
 
 #### Pacman
 
 ```
-$ sudo pacman -Syu --noconfirm
-$ sudo pacman -S ruby --noconfirm
+sudo pacman -Syu --noconfirm
+sudo pacman -S ruby --noconfirm
 ```
 
 ### MacOS
 
 ```
-$ brew update && brew upgrade
-$ brew install ruby
+brew update && brew upgrade
+brew install ruby
 ```
 
 ## Installation
 
 Clone this repository:
 
-`$ git clone "https://github.com/DeBos99/brainpiler.git"`
+`git clone "https://github.com/DeBos99/brainpiler.git"`
 
 ## Usage
 
 Help:
 
-`$ main.rb --help`
+`main.rb --help`
 
 Convert **INPUT** file to other esoteric programming language source file:
 
-`$ main.rb --input INPUT --output OUTPUT --lang LANG`
+`main.rb --input INPUT --output OUTPUT --lang LANG`
 
 ## Supported languages
 
