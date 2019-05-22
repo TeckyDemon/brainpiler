@@ -15,6 +15,7 @@
 - [Usage](#usage)
 - [Supported languages](#supported-languages)
 - [Authors](#authors)
+- [Concact](#contact)
 - [License](#license)
 
 ## Prerequisites
@@ -72,6 +73,10 @@ Convert **INPUT** file to other esoteric programming language source file:
 ## Authors
 
 * **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+
+## Contact
+
+Discord: DeBos#3292
 
 ## License
 
