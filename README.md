@@ -1,5 +1,7 @@
 # Brainpiler
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Brainpiler** is Brainfuck transpiler to other esoteric programming languages.
 
 ## Content
