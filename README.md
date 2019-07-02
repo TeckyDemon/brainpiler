@@ -34,7 +34,7 @@
 - [Usage](#usage)
 - [Supported languages](#supported-languages)
 - [Authors](#authors)
-- [Concact](#contact)
+- [Contact](#contact)
 - [License](#license)
 
 ## Prerequisites
