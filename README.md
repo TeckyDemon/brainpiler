@@ -24,63 +24,79 @@
 ## Content
 
 - [Content](#content)
-- [Prerequisites](#prerequisites)
-  - [Windows](#windows)
-  - [Linux](#linux)
-    - [APT](#apt)
-    - [Pacman](#pacman)
-  - [MacOS](#macos)
 - [Installation](#installation)
+  - [Windows](#windows)
+  - [Unix](#unix)
+    - [Debian/Ubuntu](#apt)
+    - [Arch Linux/Manjaro](#pacman)
+    - [CentOS](#yum)
+    - [MacOS](#homebrew)
 - [Usage](#usage)
+- [Documentation](#documentation)
+  - [Required arguments](#required-arguments)
 - [Supported languages](#supported-languages)
 - [Authors](#authors)
 - [Contact](#contact)
 - [License](#license)
 
-## Prerequisites
+## Installation
 
 ### Windows
 
-Install Ruby: https://rubyinstaller.org/
-
-### Linux
-
-#### APT
-
+* Install [Git](https://git-scm.com/download/win).
+* Install [Ruby](https://rubyinstaller.org/downloads/).
+* Run following commands in the command prompt:
 ```
-sudo apt update && sudo apt upgrade -y
-sudo apt install ruby -y
+git clone "https://github.com/DeBos99/brainpiler.git"
 ```
 
-#### Pacman
+### Unix
 
-```
-sudo pacman -Syu --noconfirm
-sudo pacman -S ruby --noconfirm
-```
+#### <a name="APT">Debian/Ubuntu based
 
-### MacOS
-
+* Run following commands in the terminal:
 ```
-brew update && brew upgrade
-brew install ruby
+sudo apt install git ruby -y
+git clone "https://github.com/DeBos99/brainpiler.git"
 ```
 
-## Installation
+#### <a name="Pacman">Arch Linux/Manjaro
 
-Clone this repository:
+* Run following commands in the terminal:
+```
+sudo pacman -S git ruby --noconfirm
+git clone "https://github.com/DeBos99/brainpiler.git"
+```
 
-`git clone "https://github.com/DeBos99/brainpiler.git"`
+#### <a name="YUM">CentOS
+
+* Run following commands in the terminal:
+```
+sudo yum install git ruby -y
+git clone "https://github.com/DeBos99/brainpiler.git"
+```
+
+#### <a name="Homebrew">MacOS
+
+* Run following commands in the terminal:
+```
+brew install git ruby
+git clone "https://github.com/DeBos99/brainpiler.git"
+```
 
 ## Usage
 
-Help:
+`ruby main.rb ARGUMENTS`
 
-`main.rb --help`
+## Documentation
 
-Convert **INPUT** file to other esoteric programming language source file:
+### Required arguments
 
-`main.rb --input INPUT --output OUTPUT --lang LANG`
+| Argument                 | Description                                   |
+| :----------------------- | :-------------------------------------------- |
+| -i PATH<br>--input PATH  | Sets the path of the input file to **PATH**.  |
+| -o PATH<br>--output PATH | Sets the path of the output file to **PATH**. |
+| -l LANG<br>--lang LANG   | Sets the output language to **LANG**.         |
 
 ## Supported languages
 

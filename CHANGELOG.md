@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.20] - 2019-07-15
+
+### Added
+
+##### [README.md](README.md)
+
+- `Unix` subsection to `Installation` section.
+- `Required arguments` and `Optional arguments` subsections to `Documentation` section.
+- Tables.
+
+### Removed
+
+##### [README.md](README.md)
+
+- `Prerequisites` section.
+
 ## [0.0.19] - 2019-07-02
 
 ### Added
