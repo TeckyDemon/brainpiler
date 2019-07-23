@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.21] - 2019-07-21
+## [1.0.20] - 2019-07-23
+
+### Added
+
+- `VERSION` file.
+
+### Changed
+
+##### [CHANGELOG.md](CHANGELOG.md)
+
+- Version.
+
+## [1.0.19] - 2019-07-21
 
 ### Fixed
 
@@ -14,7 +26,7 @@ All notable changes to this project will be documented in this file.
 
 - Typo.
 
-## [0.0.20] - 2019-07-15
+## [1.0.18] - 2019-07-15
 
 ### Added
 
@@ -30,13 +42,13 @@ All notable changes to this project will be documented in this file.
 
 - `Prerequisites` section.
 
-## [0.0.19] - 2019-07-02
+## [1.0.17] - 2019-07-02
 
 ### Added
 
 - [CHANGELOG.md](CHANGELOG.md) file.
 
-## [0.0.18] - 2019-07-02
+## [1.0.16] - 2019-07-02
 
 ### Fixed
 
@@ -44,7 +56,7 @@ All notable changes to this project will be documented in this file.
 
 - Typo.
 
-## [0.0.17] - 2019-05-26
+## [1.0.15] - 2019-05-26
 
 ### Added
 
@@ -52,7 +64,7 @@ All notable changes to this project will be documented in this file.
 
 - `Donate` button.
 
-## [0.0.16] - 2019-05-25
+## [1.0.14] - 2019-05-25
 
 ### Added
 
@@ -60,7 +72,7 @@ All notable changes to this project will be documented in this file.
 
 - Badges.
 
-## [0.0.15] - 2019-05-25
+## [1.0.13] - 2019-05-25
 
 ### Added
 
@@ -68,7 +80,7 @@ All notable changes to this project will be documented in this file.
 
 - License badge.
 
-## [0.0.14] - 2019-05-22
+## [1.0.12] - 2019-05-22
 
 ### Added
 
@@ -76,7 +88,7 @@ All notable changes to this project will be documented in this file.
 
 - `Contact` section.
 
-## [0.0.13] - 2019-03-29
+## [1.0.11] - 2019-03-29
 
 ### Removed
 
@@ -84,7 +96,7 @@ All notable changes to this project will be documented in this file.
 
 - Dollar signs before commands.
 
-## [0.0.12] - 2019-03-25
+## [1.0.10] - 2019-03-25
 
 ### Added
 
@@ -92,7 +104,7 @@ All notable changes to this project will be documented in this file.
 
 - `Content` section.
 
-## [0.0.11] - 2019-03-14
+## [1.0.9] - 2019-03-14
 
 ### Added
 
@@ -100,7 +112,7 @@ All notable changes to this project will be documented in this file.
 
 - `APT` and `Pacman` subsections to `Linux` section.
 
-## [0.0.10] - 2019-03-14
+## [1.0.8] - 2019-03-14
 
 ### Removed
 
@@ -108,7 +120,7 @@ All notable changes to this project will be documented in this file.
 
 - `Description` header.
 
-## [0.0.9] - 2019-03-12
+## [1.0.7] - 2019-03-12
 
 ### Changed
 
@@ -116,7 +128,7 @@ All notable changes to this project will be documented in this file.
 
 - `\*.bf` to `INPUT`, `<input>` to `INPUT`, `<output>` to `OUTPUT` and `<lang>` to `LANG` in `Usage` section.
 
-## [0.0.8] - 2019-03-08
+## [1.0.6] - 2019-03-08
 
 ### Changed
 
@@ -124,7 +136,7 @@ All notable changes to this project will be documented in this file.
 
 - If statement to ternary operator.
 
-## [0.0.7] - 2019-03-04
+## [1.0.5] - 2019-03-04
 
 ### Added
 
@@ -132,7 +144,7 @@ All notable changes to this project will be documented in this file.
 
 - Commands to `MacOS` section.
 
-## [0.0.6] - 2019-03-04
+## [1.0.4] - 2019-03-04
 
 ### Added
 
@@ -140,7 +152,7 @@ All notable changes to this project will be documented in this file.
 
 - `MacOS` subsection to `Installation` section.
 
-## [0.0.5] - 2019-02-24
+## [1.0.3] - 2019-02-24
 
 ### Removed
 
@@ -148,7 +160,7 @@ All notable changes to this project will be documented in this file.
 
 - My nickname from my name in `Authors` section.
 
-## [0.0.4] - 2019-02-22
+## [1.0.2] - 2019-02-22
 
 ### Fixed
 
@@ -156,7 +168,7 @@ All notable changes to this project will be documented in this file.
 
 - Typo in project's name.
 
-## [0.0.3] - 2019-02-19
+## [1.0.1] - 2019-02-19
 
 ### Added
 
@@ -164,13 +176,13 @@ All notable changes to this project will be documented in this file.
 
 - Documentation.
 
-## [0.0.2] - 2019-02-19
+## [1.0.0] - 2019-02-19
 
 ### Added
 
 - [main.rb](main.rb) file.
 
-## [0.0.1] - 2019-02-19
+## [1.0.0] - 2019-02-19
 
 ### Added
 
