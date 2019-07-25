@@ -24,6 +24,7 @@
 ## Content
 
 - [Content](#content)
+- [Features](#features)
 - [Installation](#installation)
   - [Windows](#windows)
   - [Unix](#unix)
@@ -38,6 +39,10 @@
 - [Authors](#authors)
 - [Contact](#contact)
 - [License](#license)
+
+## Features
+
+* Support for multiple esoteric languages.
 
 ## Installation
 
