@@ -97,11 +97,11 @@ git clone "https://github.com/DeBos99/brainpiler.git"
 
 ### Required arguments
 
-| Argument                 | Description                                   |
-| :----------------------- | :-------------------------------------------- |
-| -i PATH<br>--input PATH  | Sets the path of the input file to **PATH**.  |
-| -o PATH<br>--output PATH | Sets the path of the output file to **PATH**. |
-| -l LANG<br>--lang LANG   | Sets the output language to **LANG**.         |
+| Argument          | Description               |
+| :---------------- | :------------------------ |
+| -i, --input PATH  | Sets path to input file.  |
+| -o, --output PATH | Sets path to output file. |
+| -l, --lang LANG   | Sets output language.     |
 
 ## Supported languages
 

@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.23] - 2019-07-28
+
+### Changed
+
+##### [main.rb](main.rb)
+
+- Descriptions of arguments.
+
+##### [README.md](README.md)
+
+- Descriptions of arguments.
+
 ## [1.0.22] - 2019-07-25
 
 ### Added
