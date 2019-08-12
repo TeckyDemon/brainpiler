@@ -1,7 +1,1 @@
-*
-!.gitignore
-!CHANGELOG.md
-!LICENSE
-!main.rb
-!README.md
-!VERSION
+*.b
